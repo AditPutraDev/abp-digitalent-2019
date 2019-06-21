@@ -6,7 +6,9 @@ Demo App Digitalent@amikom business park
   
 # kebutuhan untuk menjalankan aplikasinya
   * Minimun Android Lolipop
-  * Free space 2,46 MB
+  * Android Studio
+  * Kotlin
   
 # cara menjalankan aplikasinya
+  Run
   Instal Aplikasi kemudian jalankan
