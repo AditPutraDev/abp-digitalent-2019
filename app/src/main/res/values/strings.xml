@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cash Flow</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="settiing">setting</string>
+    <string name="loginActivity">loginActivity</string>
 </resources>

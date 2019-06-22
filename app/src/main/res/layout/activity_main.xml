@@ -74,4 +74,10 @@
                         android:text="22 jun, 2019"/>
             </LinearLayout>
         </LinearLayout>
+    <FrameLayout
+            android:id="@+id/flFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+    </FrameLayout>
 </LinearLayout>
